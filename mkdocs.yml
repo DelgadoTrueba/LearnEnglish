@@ -1,11 +1,12 @@
 site_name: Learn English
 nav:
-    - Home: index.md
-    - "How to use MD": howToUseMD.md
+    - Home:                   index.md
+    - "How to use MD":        howToUseMD.md
+    - Imperative:             imperative/imperative.md
     - Conditionals: 
-      - "Zero Conditional": conditionals/zero-conditional.md
-      - "First Conditional": conditionals/first-conditional.md
+      - "Zero Conditional":   conditionals/zero-conditional.md
+      - "First Conditional":  conditionals/first-conditional.md
       - "Second Conditional": conditionals/second-conditional.md
-      - "Third Conditional": conditionals/third-conditional.md
-      - "Mix Conditional": conditionals/mix-conditional.md
+      - "Third Conditional":  conditionals/third-conditional.md
+      - "Mix Conditional":    conditionals/mix-conditional.md
 theme: readthedocs
