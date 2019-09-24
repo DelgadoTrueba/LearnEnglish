@@ -9,4 +9,7 @@ nav:
       - "Second Conditional": conditionals/second-conditional.md
       - "Third Conditional":  conditionals/third-conditional.md
       - "Mix Conditional":    conditionals/mix-conditional.md
+    - "Greeting and Goodbye":
+        "Greetings":          greeting&goodbye/greetings.md
+    - Expressions:            expressions/expressions.md
 theme: readthedocs
