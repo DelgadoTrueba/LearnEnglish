@@ -72,7 +72,7 @@ Similar to: What are you doing right now ?, What are you up to ?
 -Not much. I´m going to the art museum on Sunday.
 
 -What happening last weekend ?   
--The neighborhood was set on fire.
+-Not much. I was watching Game of thrones.
 
 
 ---
