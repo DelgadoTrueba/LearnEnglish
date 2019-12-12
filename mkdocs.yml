@@ -12,4 +12,5 @@ nav:
     - "Greeting and Goodbye":
         "Greetings":          greeting&goodbye/greetings.md
     - Expressions:            expressions/expressions.md
+    - EPAC:                   epac/vocabulary.md
 theme: readthedocs
